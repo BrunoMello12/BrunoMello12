@@ -2,7 +2,9 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-mello-8318432a3/)
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoMello12&show_icons=true&theme=dracula&count_private=true)
+### Estatísticas 📉
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMello12&layout=compact)
 
 ### Tecnologias que uso no meu dia
 
